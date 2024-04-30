@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-| <a href="https://github.com/PedroRegisPOAR/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PedroRegisPOAR&include_orgs=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="PedroRegisPOAR's github stats" /></a> | <a href="https://github.com/PedroRegisPOAR/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRegisPOAR&layout=compact&theme=dark&hide_border=true" /></a> |
+| <a href="https://github.com/PedroRegisPOAR/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=PedroRegisPOAR&include_orgs=true&show_icons=true&theme=dark&locale=en&hide_border=true" alt="PedroRegisPOAR's github stats" /></a> | <a href="https://github.com/PedroRegisPOAR/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=PedroRegisPOAR&include_orgs=true&hide_border=true" /></a> |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
