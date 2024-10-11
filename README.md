@@ -76,6 +76,16 @@ My contributions to nixpkgs:
 - PyCharm: [jetbrains.pycharm-community: adds glibcLocales to pycharm-community](https://github.com/NixOS/nixpkgs/pull/322026)
 
 
+
+#### Insightful quotes
+
+> "Program testing can be used to show the presence of bugs, but never to show their absence!" ― Edsger W. Dijkstra.
+
+> "I would rather have questions that can't be answered than answers that can't be questioned." ― Richard P. Feynman.
+
+> "Living is worthwhile if one can contribute in some small way to this endless chain of progress." ― Paul A.M. Dirac.
+
+
 #### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pedroregispoar/)
