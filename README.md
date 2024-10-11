@@ -67,6 +67,14 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 
+#### Nix, nixpkgs, NixOS
+
+My contributions to nixpkgs:
+- QEMU: [qemu: add meta.mainProgram](https://github.com/NixOS/nixpkgs/pull/153425)
+- documentation: [Removes extra backtick from manual](https://github.com/NixOS/nixpkgs/pull/318061)
+- kubernetes NixOS distribution: [nixos/kubernetes: adds argument to mkCert defaulting to kubernetes group](https://github.com/NixOS/nixpkgs/pull/321632)
+- PyCharm: [jetbrains.pycharm-community: adds glibcLocales to pycharm-community](https://github.com/NixOS/nixpkgs/pull/322026)
+
 
 #### Contact
 
