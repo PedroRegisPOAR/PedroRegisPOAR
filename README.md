@@ -6,70 +6,82 @@
 
 #### Languages
 
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](https://nixos.org/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 #### Markup languages
 
+
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)](https://yaml.org/)
 [![json](https://img.shields.io/badge/json-000000.svg?style=for-the-badge&logo=json&logoColor=151515)](https://www.json.org/json-en.html)
 [![toml](https://img.shields.io/badge/toml-9C4121.svg?style=for-the-badge&logo=toml&logoColor=151515)](https://toml.io/)
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
+
 
 #### Cloud and DevOps
 
-[![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
-[![Podman](https://img.shields.io/badge/Podman-%23892CA0.svg?style=for-the-badge&logo=Podman&logoColor=white)](https://podman.io/)
-[![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)](https://developer.hashicorp.com/vagrant/intro)
-[![Terraform](https://img.shields.io/badge/TERRAFORM-623CE4.svg?style=for-the-badge&logo=Terraform&logoColor=white)](https://www.terraform.io/)
-[![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
-[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/actions)
-[![QEMU](https://img.shields.io/badge/QEMU-%23000000.svg?style=for-the-badge&logo=QEMU&logoColor=white)](https://www.qemu.org/)
+
+
 [![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white)](https://aws.amazon.com/ec2)
 [![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/)
-[![proxmox](https://img.shields.io/badge/proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com)
-[![Git](https://img.shields.io/badge/GIT%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
+[![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/actions)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Git](https://img.shields.io/badge/GIT%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Podman](https://img.shields.io/badge/Podman-%23892CA0.svg?style=for-the-badge&logo=Podman&logoColor=white)](https://podman.io/)
+[![Proxmox](https://img.shields.io/badge/proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com)
+[![QEMU](https://img.shields.io/badge/QEMU-%23000000.svg?style=for-the-badge&logo=QEMU&logoColor=white)](https://www.qemu.org/)
+[![Terraform](https://img.shields.io/badge/TERRAFORM-623CE4.svg?style=for-the-badge&logo=Terraform&logoColor=white)](https://www.terraform.io/)
+[![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)](https://developer.hashicorp.com/vagrant/intro)
+
 
 
 #### Unix and GNU/Linux
 
+[![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-%230D597F.svg?style=for-the-badge&logo=alpinelinux&logoColor=white)](https://www.alpinelinux.org/)
+[![Debian](https://img.shields.io/badge/DEBIAN-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)](https://www.debian.org)
 [![Linux](https://img.shields.io/badge/LINUX-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)](https://www.linux.org)
 [![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](https://nixos.org/manual/nixos/stable/)
-[![Debian](https://img.shields.io/badge/DEBIAN-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)](https://www.debian.org)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-%230D597F.svg?style=for-the-badge&logo=alpinelinux&logoColor=white)](https://www.alpinelinux.org/)
 [![XFCE](https://img.shields.io/badge/xfce-2284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)](https://www.xfce.org/)
 
 
 #### Databases
 
+
 [![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)](https://redis.io/)
 [![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)](https://www.sqlite.org/)
 
+
 #### Backend
 
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://www.django-rest-framework.org/)
+
 [![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)](https://docs.celeryq.dev)
+[![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://www.django-rest-framework.org/)
+[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+
 
 #### Tools and IDEs
 
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=Insomnia&logoColor=white)](https://insomnia.rest/)
+
 [![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=DBeaver&logoColor=white)](https://dbeaver.io/)
 [![GitKraken](https://img.shields.io/badge/gitkraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)](https://www.gitkraken.com/)
-[![PyCharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=Insomnia&logoColor=white)](https://insomnia.rest/)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![PyCharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+
 
 
 #### Nix, nixpkgs, NixOS
+
 
 My contributions to nixpkgs:
 - QEMU: [qemu: add meta.mainProgram](https://github.com/NixOS/nixpkgs/pull/153425)
@@ -83,9 +95,11 @@ My contributions to nixpkgs:
 
 > "Program testing can be used to show the presence of bugs, but never to show their absence!" ― Edsger W. Dijkstra.
 
+> "There are only two hard things in Computer Science: cache invalidation and naming things." ― Phil Karlton.
+
 > "I would rather have questions that can't be answered than answers that can't be questioned." ― Richard P. Feynman.
 
-> "Living is worthwhile if one can contribute in some small way to this endless chain of progress." ― Paul A.M. Dirac.
+> "Living is worthwhile if one can contribute in some small way to this endless chain of progress." ― Paul A. M. Dirac.
 
 
 #### Contact
