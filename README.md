@@ -93,6 +93,8 @@ My contributions to nixpkgs:
 
 #### Insightful quotes
 
+> "Code without tests is broken by design." ― Jacob Kaplan-Moss
+
 > "Program testing can be used to show the presence of bugs, but never to show their absence!" ― Edsger W. Dijkstra.
 
 > "There are only two hard things in Computer Science: cache invalidation and naming things." ― Phil Karlton.
