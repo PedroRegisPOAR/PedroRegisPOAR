@@ -1,17 +1,17 @@
-### Hi there 👋, I am Pedro Regis
+## Hi there 👋, I am Pedro Regis
 
 
 ![Pedro Regis's github stats:](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=PedroRegisPOAR&include_orgs=true&show_icons=true&theme=dark&locale=en&hide_border=false)
 
 
-#### Languages
+### Languages
 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](https://nixos.org/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
 
-#### Markup languages
+### Markup languages
 
 
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
@@ -21,7 +21,7 @@
 [![toml](https://img.shields.io/badge/toml-9C4121.svg?style=for-the-badge&logo=toml&logoColor=151515)](https://toml.io/)
 
 
-#### Cloud and DevOps
+### Cloud and DevOps
 
 
 
@@ -40,7 +40,7 @@
 
 
 
-#### Unix and GNU/Linux
+### Unix and GNU/Linux
 
 [![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-%230D597F.svg?style=for-the-badge&logo=alpinelinux&logoColor=white)](https://www.alpinelinux.org/)
 [![Debian](https://img.shields.io/badge/DEBIAN-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)](https://www.debian.org)
@@ -50,7 +50,7 @@
 [![XFCE](https://img.shields.io/badge/xfce-2284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)](https://www.xfce.org/)
 
 
-#### Databases
+### Databases
 
 
 [![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org/)
@@ -58,7 +58,7 @@
 [![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)](https://www.sqlite.org/)
 
 
-#### Backend
+### Backend
 
 
 [![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)](https://docs.celeryq.dev)
@@ -67,7 +67,7 @@
 [![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
 
 
-#### Tools and IDEs
+### Tools and IDEs
 
 
 [![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=DBeaver&logoColor=white)](https://dbeaver.io/)
@@ -78,6 +78,9 @@
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![PyCharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 
+
+
+### Free and open-source software
 
 
 #### Nix, nixpkgs, NixOS
@@ -91,7 +94,7 @@ My contributions to nixpkgs:
 
 
 
-#### Insightful quotes
+### Insightful quotes
 
 > "Code without tests is broken by design." ― Jacob Kaplan-Moss
 
@@ -104,11 +107,17 @@ My contributions to nixpkgs:
 > "Living is worthwhile if one can contribute in some small way to this endless chain of progress." ― Paul A. M. Dirac.
 
 
-#### Contact
+### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pedroregispoar/)
 
 <!--
+
+#### Things built/done
+
+Pull requests:
+- ?
+
 
 References
 - https://github.com/Ileriayo/markdown-badges
