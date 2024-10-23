@@ -4,15 +4,10 @@
 ![Pedro Regis's github stats:](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=PedroRegisPOAR&include_orgs=true&show_icons=true&theme=dark&locale=en&hide_border=false)
 
 
-![alt-text](https://media1.tenor.com/m/wV3ncwlpZk8AAAAd/gameoflife.gif)
-
 <p align="center">
-  <img src="https://media1.tenor.com/m/wV3ncwlpZk8AAAAd/gameoflife.gif" width="350">
+  <img src="https://giphy.com/embed/tXlpbXfu7e2Pu/giphy.gif" width="350">
 </p>
 
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
 
 
 ### Languages
