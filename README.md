@@ -96,7 +96,7 @@ My contributions to nixpkgs:
 
 ### Insightful quotes
 
-> "Code without tests is broken by design." ― Jacob Kaplan-Moss
+> "Code without tests is broken by design." ― Jacob Kaplan-Moss.
 
 > "Program testing can be used to show the presence of bugs, but never to show their absence!" ― Edsger W. Dijkstra.
 
