@@ -7,7 +7,7 @@
 ![alt-text](https://media1.tenor.com/m/wV3ncwlpZk8AAAAd/gameoflife.gif)
 
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif](https://media1.tenor.com/m/wV3ncwlpZk8AAAAd/gameoflife.gif" width="350">
+  <img src="https://media1.tenor.com/m/wV3ncwlpZk8AAAAd/gameoflife.gif" width="350">
 </p>
 
 ### Languages
