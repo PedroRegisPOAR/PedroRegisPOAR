@@ -4,11 +4,6 @@
 ![Pedro Regis's github stats:](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=PedroRegisPOAR&include_orgs=true&show_icons=true&theme=dark&locale=en&hide_border=false)
 
 
-<p align="center">
-  <img src="https://giphy.com/embed/tXlpbXfu7e2Pu/giphy.gif" width="350">
-</p>
-
-
 
 ### Languages
 
@@ -118,6 +113,11 @@ My contributions to nixpkgs:
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pedroregispoar/)
 
 <!--
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/tXlpbXfu7e2Pu/giphy.gif" width="350">
+</p>
+
 
 #### Things built/done
 
