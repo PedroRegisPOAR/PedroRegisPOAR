@@ -412,6 +412,12 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 
 <!--
 
+
+TODO: how to deal with multiple references for the smae thing in markdow? Use footnotes?
+Examples:
+- About The Prime have been working at Netflix [Why I Quit Netflix](https://www.youtube.com/embed/SSS24ViMC50?start=434&end=485&version=3)
+
+
 <p align="center">
   <img src="https://media3.giphy.com/media/tXlpbXfu7e2Pu/giphy.gif" width="350">
 </p>
