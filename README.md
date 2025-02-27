@@ -418,6 +418,13 @@ Examples:
 - About The Prime have been working at Netflix [Why I Quit Netflix](https://www.youtube.com/embed/SSS24ViMC50?start=434&end=485&version=3)
 
 
+def convert_seconds(seconds):
+    # Calculate minutes and remaining seconds
+    minutes = seconds // 60
+    remaining_seconds = seconds % 60
+    return '0' + str(minutes) + ':' + str(remaining_seconds)
+
+
 <p align="center">
   <img src="https://media3.giphy.com/media/tXlpbXfu7e2Pu/giphy.gif" width="350">
 </p>
