@@ -1,7 +1,45 @@
-## Hi there 👋, I am Pedro Regis
 
+[![](https://github.com/user-attachments/assets/221bcaf7-c356-462a-8a71-3b9f2f583d35)](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/)
+
+
+<!--
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806">
+        <img src="https://github.com/user-attachments/assets/221bcaf7-c356-462a-8a71-3b9f2f583d35">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+<a href="https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806" align="center">
+  <img src="https://github.com/user-attachments/assets/221bcaf7-c356-462a-8a71-3b9f2f583d35" align="center">
+</a>
+
+
+<center>
+  <a href="https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806">
+    <img src="https://github.com/user-attachments/assets/221bcaf7-c356-462a-8a71-3b9f2f583d35">
+  </a>
+</center>
+
+
+<center>
+ [![](https://github.com/user-attachments/assets/221bcaf7-c356-462a-8a71-3b9f2f583d35)](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/)
+</center>
+
+[![](https://github.com/user-attachments/assets/221bcaf7-c356-462a-8a71-3b9f2f583d35)](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/)
 
 ![Pedro Regis's github stats:](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=PedroRegisPOAR&include_orgs=true&show_icons=true&theme=dark&locale=en&hide_border=false)
+
+![output](https://github.com/user-attachments/assets/221bcaf7-c356-462a-8a71-3b9f2f583d35)
+ <video src="https://github.com/user-attachments/assets/9a80abba-f79c-4d35-adf5-025e2a5e9e98" width="352" height="720"></video>
+-->
+
+## Hi there 👋, I am Pedro Regis
 
 
 
@@ -234,8 +272,6 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 | 8mRNt6hijp | [Thomas Woolford](https://www.linkedin.com/in/twoolie/) / Senior Software Engineer at Swordfish Computing                                                                                       | 00:11 | [A sack full of angry snakes: Taming your python dependencies with Nix](https://www.youtube.com/embed/8ng4v1g5q7s?start=200&end=211&version=3)                       |
 | WjOkxnAF8m | [Rok Garbas](https://www.linkedin.com/in/garbas/) / ex Senior Software Engineer at Tweag; Software Engineer at Flox                                                                             | 00:43 | [2013: Nix, you'll be wondering why you haven't been using it before](https://www.youtube.com/embed/R7Y4YNHoP0E?start=253&end=296&version=3)                         |
 | 3AyqOySX2W | [Leandro Emmanuel Reina Kiperman](https://www.linkedin.com/in/leandroreinakiperman/) / Embedded Linux Engineer at OroraTech                                                                     | 00:16 | [NixCon2023 Nix in Space](https://www.youtube.com/embed/GNsHIN6SYkE?start=262&end=278&version=3)                                                                     |
-| A0I9xlrdyn | [Martin Wimpress](https://www.linkedin.com/in/martinwimpress/) / creator of Ubuntu MATE; Head of Product Strategy at [Determinate Systems](https://determinate.systems/people/martin-wimpress/) | 01:35 | [NixCon 2023: Blending NixOS with Flathub for friends and family - Nix & NixOS](https://www.youtube.com/embed/ITGo2DzgDlg?start=132&end=227&version=3)               |
-| BVU9Yo1GFr | [Martin Wimpress](https://www.linkedin.com/in/martinwimpress/) / creator of Ubuntu MATE; Head of Product Strategy at [Determinate Systems](https://determinate.systems/people/martin-wimpress/) | 00:24 | [NixCon 2023: Blending NixOS with Flathub for friends and family - Nix & NixOS](https://www.youtube.com/embed/ITGo2DzgDlg?start=318&end=342&version=3)               |
 |||||
 | SrPOopbGtP | [Andreas Herrmann](https://www.linkedin.com/in/andreas-herrmann-2081751ba/) / ex Scalable Builds Lead at Tweag; Scalable Builds Lead at Modus Create                                            | 01:32 | [The best of both worlds with Nix + Bazel](https://www.youtube.com/embed/dBru1MVKsfE?start=459&end=551&version=3)                                                    |
 | Qn7JF04xgg | [Bryan H.](https://www.linkedin.com/in/bryanhonof/) / Software Engineer at Flox                                                                                                                 | 00:56 | [A Gentle Introduction to Nix](https://www.youtube.com/embed/gUjvnZ9ZwMs?start=460&end=516&version=3)                                                                |
@@ -401,7 +437,7 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 | id          | Author / Enterprise | Duration | Title |
 |-------------|---------------------|----------|-------|
 | e0mB76yz8S | / | 00:12 | [Programming Memes \|\| r/ProgrammerHumor](https://www.youtube.com/embed/_lEzN8C5c7k?start=355&end=367&version=3) |
-| CFlBEHF3sn | [bigboxSWE](https://www.youtube.com/@bigboxSWE) /  | 00:32 | [Estágios de uso do Linux](https://www.youtube.com/embed/OZeCN_DdqaM?start=139&end=171&version=3) |
+| CFlBEHF3sn | [bigboxSWE](https://www.youtube.com/@bigboxSWE) / | 00:32 | [Stages of Using Linux](https://www.youtube.com/embed/OZeCN_DdqaM?start=139&end=171&version=3) |
 | YBNPpYgr9k | / | 00:38 | [Interview with a Senior Python Developer - Part1](https://www.youtube.com/embed/BgxklT94W0I?start=107&end=145&version=3) |
 | C86zm3Rjek | / | 00:32 | [Interview with a Senior Python Developer - Part1](https://www.youtube.com/embed/BgxklT94W0I?start=255&end=287&version=3) |
 | GIx0aDXXdr | [PhD](https://researchcommons.waikato.ac.nz/entities/publication/708beb61-29c3-4425-bb24-f2602f6d9c9c) [Daniel Britten](https://www.linkedin.com/in/daniel-britten-3178b5102/) / PhD student at The University of Waikato  | 00:45 | [macOS to NixOS the Purely Functional Linux Distribution by Daniel Britten](https://www.youtube.com/embed/SzFn7UwVws0?start=728&end=773&version=3) |
@@ -409,6 +445,7 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 | RtNzEHEFd6 | [Cam Pedersen](https://www.linkedin.com/in/cam-pedersen/) / ex Principal Engineer at depict Inc.; co-founder at DitchCarbon | 01:00 | [NixOS in 60 seconds](https://www.youtube.com/embed/Ukglm5KJFa8?start=0&end=60&version=3) |
 | 7ikgW4ydO7 | [bigboxSWE](https://www.youtube.com/@bigboxSWE) / | 00:28 | [What Your Linux Distro Says About You](https://www.youtube.com/embed/korOpibkm6g?start=99&end=127&version=3) |
 | 3bQqhxTXtg | [TechnoSever](https://www.youtube.com/@technosevergen%C3%A7) / | 00:03 | [Ranking Linux Distros (In my Opinion)](https://www.youtube.com/embed/oxLhsFos2RU?start=25&end=28&version=3) |
+| yU8zQ8FiYH | [Armijn Hemel](https://www.linkedin.com/in/armijnhemel/) / created first prototype of NixOS | 00:21 | [The dark and murky past of NixOS (NixCon 2019)](https://www.youtube.com/embed/fsgYVi2PQr0?start=507&end=528&version=3) |
   </details>
 </details>
 
@@ -433,6 +470,9 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 <!--
 
 
+tr -cd '[:alnum:]' < /dev/urandom | fold -w30 | head -n1
+
+
 TODO: how to deal with multiple references for the same thing in markdow? Use footnotes?
 Examples:
 - About The Prime have been working at Netflix [Why I Quit Netflix](https://www.youtube.com/embed/SSS24ViMC50?start=434&end=485&version=3)
@@ -447,6 +487,25 @@ Other quotes:
 | tZTyIbNjmS | [Linus Torvalds](https://www.linkedin.com/in/linustorvalds/) / creator of Linux Kernel | 02:37 | [The Origins of Linux—Linus Torvalds](https://www.youtube.com/embed/5PmHRSeA2c8?start=1801&end=1867&version=3) |
 
 
+TODO: 
+|  | [Lucas Montano](https://www.linkedin.com/in/lucasmontano/) / Senior Android Engineer at Disney | 00:00 | [A Crise de Identidade do Programador em 2025](https://www.youtube.com/embed/rZd-ATp3X7A?start=763&end=828&version=3) |
+
+
+https://www.youtube.com/embed/iPoL03tFBtU?start=1453&end=1489&version=3
+https://www.youtube.com/embed/iPoL03tFBtU?start=1456&end=1489&version=3
+
+
+
+https://www.youtube.com/embed/C7hVontyK9Y?start=427&end=450&version=3
+
+
+
+
+[VegaData](https://www.youtube.com/@VegaData) / [VegaData](https://www.youtube.com/@VegaData) 
+
+
+
+
 
 TODO: transform this markdown tables in json and process it with python?
 
@@ -456,6 +515,15 @@ def convert_seconds(seconds):
     minutes = seconds // 60
     remaining_seconds = seconds % 60
     return '0' + str(minutes) + ':' + str(remaining_seconds)
+
+
+Gerhard Lazu in MZq1Jo3v4I
+
+
+It changed to be closed:
+| A0I9xlrdyn | [Martin Wimpress](https://www.linkedin.com/in/martinwimpress/) / creator of Ubuntu MATE; Head of Product Strategy at [Determinate Systems](https://determinate.systems/people/martin-wimpress/) | 01:35 | [NixCon 2023: Blending NixOS with Flathub for friends and family - Nix & NixOS](https://www.youtube.com/embed/ITGo2DzgDlg?start=132&end=227&version=3)               |
+| BVU9Yo1GFr | [Martin Wimpress](https://www.linkedin.com/in/martinwimpress/) / creator of Ubuntu MATE; Head of Product Strategy at [Determinate Systems](https://determinate.systems/people/martin-wimpress/) | 00:24 | [NixCon 2023: Blending NixOS with Flathub for friends and family - Nix & NixOS](https://www.youtube.com/embed/ITGo2DzgDlg?start=318&end=342&version=3)               |
+
 
 
 <p align="center">
@@ -522,6 +590,17 @@ https://simpleicons.org/?q=replit
 https://simpleicons.org/?q=GitPod
 https://simpleicons.org/?q=amazonrds
 https://simpleicons.org/?q=amazonsqs
+
+
+#FAD83B
+
+
+
+https://img.shields.io/badge/beekeeperstudio-FAD83B
+?style=for-the-badge&logo=beekeeperstudio&logoColor=white
+
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+
 
 archlinux
 almalinux
@@ -634,12 +713,31 @@ homebrew
 
 <!--
 
+
+[Eduarda Vieira](https://www.linkedin.com/in/eduardavieiranetto/)
+[Por que eu uso o Linux para programar?](https://www.youtube.com/embed/1akRfD5ndBk?start=211&end=224&version=3)
+
+
+The WND problem is at least an NP-Hard problem:
+https://doi.org/10.1080/03052158408960635
+https://www.tandfonline.com/doi/abs/10.1080/03052158408960635
+
+
+
+
+node -e 'console.log(parseInt(0.0000005))'
+
+
+
+https://xkcd.com/1172/
+
+
 https://github.com/NixOS/nixpkgs/pull/153425
 https://github.com/NixOS/nixpkgs/pull/281238
 https://github.com/NixOS/nix/issues/6976
 
-- 🔭 I’m currently working on building with Nix: python wheels with any compiled language, Django, zero CVE distroless OCI Images for kubernetes, integration and stress tests using [`nixpkgs#testers.runNixOSTest`](https://nixos.org/manual/nixpkgs/stable/#tester-runNixOSTest).
-- 🌱 I’m currently learning: Nix, Rust, REST, Kubernetes, Eventual Consistency, Database Sharding, Stress Testing, eBPF, Opentelemetry, OpenTofu.
+- 🔭 I’m currently working on building with Nix: python wheels with any compiled language, FastAPI, Django, zero CVE distroless OCI Images for ECS/EKS/kubernetes, integration and stress tests using [`nixpkgs#testers.runNixOSTest`](https://nixos.org/manual/nixpkgs/stable/#tester-runNixOSTest).
+- 🌱 I’m currently learning: Nix, Python, FastAPI, Azure DevOps, Rust, REST APIs, Kubernetes, Eventual Consistency, Database Sharding, Stress Testing, eBPF, Opentelemetry, OpenTofu.
 - 👯 I’m looking to collaborate on any project that use any tecnology cited here (the ones that I have worked with), and maybe more
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about: Nix, nixpkgs, NixOS, python, build systems, P vs NP, sanitation.
