@@ -1,6 +1,10 @@
 
 [![](https://github.com/user-attachments/assets/221bcaf7-c356-462a-8a71-3b9f2f583d35)](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/)
 
+- [New Method Is the Fastest Way To Find the Best Routes](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/)
+- By ACM: [Breaking the Sorting Barrier for Directed Single-Source Shortest
+Paths](https://dl.acm.org/doi/pdf/10.1145/3717823.3718179)
+- By arxiv: [Breaking the Sorting Barrier for Directed Single-Source Shortest Paths](https://arxiv.org/abs/2504.17033)
 
 <!--
 
@@ -459,6 +463,8 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 > "There are only two hard things in Computer Science: cache invalidation and naming things." ― Phil Karlton.
 
 > "I would rather have questions that can't be answered than answers that can't be questioned." ― Richard P. Feynman.
+
+> "We are trying to prove ourselves wrong as quickly as possible, because only in that way can we find progress." ― Richard P. Feynman.
 
 > "Living is worthwhile if one can contribute in some small way to this endless chain of progress." ― Paul A. M. Dirac.
 
