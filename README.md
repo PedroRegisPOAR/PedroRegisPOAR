@@ -464,6 +464,8 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 
 > "I would rather have questions that can't be answered than answers that can't be questioned." ― Richard P. Feynman.
 
+> "It's not that I'm so smart, it's just that I stay with problems longer." ― Albert Einstein.
+
 > "We are trying to prove ourselves wrong as quickly as possible, because only in that way can we find progress." ― Richard P. Feynman.
 
 > "Living is worthwhile if one can contribute in some small way to this endless chain of progress." ― Paul A. M. Dirac.
