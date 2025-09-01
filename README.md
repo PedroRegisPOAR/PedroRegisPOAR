@@ -300,6 +300,7 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 | OMAmZk9Hf1 | C, make: [Andrew Tanenbaum](https://www.linkedin.com/in/andrew-tanenbaum-a142b5/)                                                                                                                                        | 01:21                                                                                                                                                                     | [MINIX 3: a Modular, Self-Healing POSIX-compatible Operating System](https://www.youtube.com/embed/bx3KuE7UjGA?start=2295&end=2376&version=3)                           |
 | 3vddFANSRG | C, make, bintutils: [Rob Landley](https://www.linkedin.com/in/rob-landley-2b7a09/) / ex Busybox mantainer, creator of Toybox                                                                                             | 00:46                                                                                                                                                                     | [Toybox vs BusyBox - Rob Landley, hobbyist](https://www.youtube.com/embed/MkJkyMuBm3g?start=195&end=241&version=3)                                                      |
 | Whrg9GYLGD | eBPF, toolchains: [Liz Rice](https://www.linkedin.com/in/lizrice/) / Chief Open Source Officer, Isovalent at Cisco & Governing Board at CNCF, and Emeritus chair, Technical Oversight Committee & eBPF, security, Cilium | 00:11                                                                                                                                                                     | [eBPF Superpowers](https://www.youtube.com/embed/4SiWL5tULnQ?start=421&end=432&version=3)                                                                               |
+| n2KbCxcq2K | [Brodie Robertson](https://www.linkedin.com/in/brodie-robertson-888046149/) /  | 01:51 | [This Dev Booted Linux 292,612 Times To Fix A Bug](https://www.youtube.com/embed/Dwj1-x9_Y4Q?start=39&end=150&version=3) |
 | sf3PGaiAOq | [Chris McDonough](https://github.com/mcdonc) /                                                                                                                                                                           | 01:19                                                                                                                                                                     | [NixOS 86: A Tour of Eelco's Nix PhD Thesis, Part 1 (Introduction)](https://www.youtube.com/embed/Caao69qWK0A?start=708&end=787&version=3)                              | 
 | fKLjJzC5eQ | [Linus Torvalds](https://www.linkedin.com/in/linustorvalds/) / creator of Linux Kernel                                                                                                                                   |00:23| [DebConf 14: QA with Linus Torvalds](https://www.youtube.com/embed/5PmHRSeA2c8?start=2588&end=2611&version=3)                                            |
 | A3sHF37qOk | [Armijn Hemel](https://www.linkedin.com/in/armijnhemel/) / created first prototype of NixOS | 00:24 | [The dark and murky past of NixOS (NixCon 2019)](https://www.youtube.com/embed/fsgYVi2PQr0?start=437&end=461&version=3) |
@@ -492,9 +493,12 @@ Examples:
 
 
 Other quotes:
-| n2KbCxcq2K | [Jon Y](https://www.linkedin.com/in/jon-y-asianometry/) / YouTuber, creator of Asianometry | 02:47 | [A Chronicle of the Unix Wars](https://www.youtube.com/embed/Ffh3DRFzRL0?start=179&end=346&version=3) |
+|  | [Jon Y](https://www.linkedin.com/in/jon-y-asianometry/) / YouTuber, creator of Asianometry | 02:47 | [A Chronicle of the Unix Wars](https://www.youtube.com/embed/Ffh3DRFzRL0?start=179&end=346&version=3) |
 | C2f0nLNfAZ | [Linus Torvalds](https://www.linkedin.com/in/linustorvalds/) / creator of Linux Kernel | 07:36 | [The Origins of Linux—Linus Torvalds](https://www.youtube.com/embed/5PmHRSeA2c8?start=1801&end=1867&version=3) |
 | tZTyIbNjmS | [Linus Torvalds](https://www.linkedin.com/in/linustorvalds/) / creator of Linux Kernel | 02:37 | [The Origins of Linux—Linus Torvalds](https://www.youtube.com/embed/5PmHRSeA2c8?start=1801&end=1867&version=3) |
+
+
+
 
 
 TODO: 
