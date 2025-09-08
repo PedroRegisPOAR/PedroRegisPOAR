@@ -152,11 +152,12 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 
 
 <details><summary>What is Nix?  (Click to expand!)</summary>
+
+      > "Every now and then a man’s mind is stretched by a new idea or sensation, and never shrinks back to its former dimensions." ― Oliver Wendell Holmes, Senior.
+
+      ![](https://i.guim.co.uk/img/media/b251ae63d78acf9389a8fce146580483ecdd2253/57_6_1416_849/master/1416.jpg?width=310&dpr=1&s=none&crop=none) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Red_and_blue_pill.jpg/330px-Red_and_blue_pill.jpg)
+
       <details><summary>What is Nix? First set of slices/quotes. (Click to expand!)</summary>
-
-> "Every now and then a man’s mind is stretched by a new idea or sensation, and never shrinks back to its former dimensions." ― Oliver Wendell Holmes, Senior.
-
-![](https://i.guim.co.uk/img/media/b251ae63d78acf9389a8fce146580483ecdd2253/57_6_1416_849/master/1416.jpg?width=310&dpr=1&s=none&crop=none) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Red_and_blue_pill.jpg/330px-Red_and_blue_pill.jpg)
 
 | id          | Author / Enterprise | Duration | Title                                                                                                                                                                  |
 |-------------|---------------------|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
