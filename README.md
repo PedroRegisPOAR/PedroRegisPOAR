@@ -445,6 +445,7 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 | 3CYtrPDRDF | [Erik Osterman](https://www.linkedin.com/in/osterman/) / DevOps Accelerator; LLC (CEO) at Cloud Posse | 00:49 | [Is NixOS Worth The Hype?](https://www.youtube.com/embed/5ewolfQjoXc?start=0&end=49&version=3) |
 | x5Z9Hqe5Bd  | [Farid Zakaria](https://www.linkedin.com/in/fmzakari/) / ex Engineering Manager at Google, Staff Software Engineer at Looker; Principal Engineer at Confluent | 02:09 | [ #275 Giving NixOS Linux A Proper Try \| Shahar & Farid](https://www.youtube.com/embed/KVxk7LFdHtQ?start=1943&end=2072&version=3) |
 | m9Y19CpomN  | [Farid Zakaria](https://www.linkedin.com/in/fmzakari/) / ex Engineering Manager at Google, Staff Software Engineer at Looker; Principal Engineer at Confluent | 01:31 | [ #275 Giving NixOS Linux A Proper Try \| Shahar & Farid](https://www.youtube.com/embed/KVxk7LFdHtQ?start=1549&end=1640&version=3) |
+| GseHhOzBAH  | [Farid Zakaria](https://www.linkedin.com/in/fmzakari/) / ex Engineering Manager at Google, Staff Software Engineer at Looker; Principal Engineer at Confluent | 02:37 | [ #275 Giving NixOS Linux A Proper Try \| Shahar & Farid](https://www.youtube.com/embed/KVxk7LFdHtQ?start=4803&end=4960&version=3) |
   </details>
   <details><summary>Memes: (Click to expand!)</summary>
 
@@ -494,6 +495,13 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 
 tr -cd '[:alnum:]' < /dev/urandom | fold -w10 | head -n3
 
+def convert_seconds(seconds):
+    minutes = seconds // 60
+    remaining_seconds = seconds % 60
+    return f'{minutes:02}:{remaining_seconds:02}'
+
+convert_seconds()
+
 
 TODO: how to deal with multiple references for the same thing in markdow? Use footnotes?
 Examples:
@@ -535,12 +543,7 @@ https://www.youtube.com/embed/C7hVontyK9Y?start=427&end=450&version=3
 TODO: transform this markdown tables in json and process it with python?
 
 
-def convert_seconds(seconds):
-    minutes = seconds // 60
-    remaining_seconds = seconds % 60
-    return f'{minutes:02}:{remaining_seconds:02}'
 
-convert_seconds( 3996 - 3788 )
 
 
 Gerhard Lazu in MZq1Jo3v4I
