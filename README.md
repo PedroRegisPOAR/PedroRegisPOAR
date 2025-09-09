@@ -175,7 +175,8 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 | ESptvWwOis  | [Jim Clark](https://www.linkedin.com/in/james-clark-b78649/) / Lead Engineer at Docker                                                                                                                | 00:44 | [Docker and Nix (DockerCon 2023)](https://www.youtube.com/embed/l17oRkhgqHE?start=1591&end=1635&version=3)                                                             |
 | 8quFf1EbCL  | [Saiyam Pathak](https://www.linkedin.com/in/saiyampathak/) / Principal Developer Advocate at Loft Labs                                                                                                | 00:44 | [How to build 0 CVE docker images? Can there be a better solution?](https://www.youtube.com/embed/8lcc6jU9zfI?start=922&end=966&version=3)                             |
 | HMksD6WSC4  | [Adrian Mouat](https://www.linkedin.com/in/adrianmouat/) / Developer Relations at Chainguard                                                                                                          | 02:36 | [Debugging Distroless Containers with Docker Debug](https://www.youtube.com/embed/ELxIBB2Uy2E?start=114&end=270&version=3)                                             |
-| MZq1Jo3v4I  | [Vincent Ambo](https://github.com/tazjin) / ex Google, ex Deepmind, at Tvix | 02:48 | [What exactly is Nix and NixOS? (Vincent Ambo)](https://www.youtube.com/embed/_R9ekUTOoII?start=0&end=168&version=3) |
+| MZq1Jo3v4I | [Vincent Ambo](https://github.com/tazjin) / ex Google, ex Deepmind, at Tvix | 02:48 | [What exactly is Nix and NixOS? (Vincent Ambo)](https://www.youtube.com/embed/_R9ekUTOoII?start=0&end=168&version=3) |
+| uZJaibXLwx | [Julian Arni](https://www.linkedin.com/in/julian-kirsten-arni-675b08234/) / founder of garnix | 01:47 | [Nix, The Build Everything Language (with Julian Arni)](https://www.youtube.com/embed/maw2hptpErI?start=801&end=908&version=3) |
 | nsa1k07e5H  | [Farid Zakaria](https://www.linkedin.com/in/fmzakari/) / ex Engineering Manager at Google, Staff Software Engineer at Looker; Principal Engineer at Confluent | 03:28 | [ #275 Giving NixOS Linux A Proper Try \| Shahar & Farid](https://www.youtube.com/embed/KVxk7LFdHtQ?start=3788&end=3996&version=3) |
 | DoGI1q75sA  | Jakub Grzegorz Sokołowski /  | 00:24 | [Nix Fundamentals](https://www.youtube.com/embed/m4sv2M9jRLg?start=98&end=122&version=3)                                                                               |
 | OPgE7BOoyZ  | Daniel Wheeler /                                                                                                                                                                                      | 00:18 | [Using Nix for Repeatable Python Environments \| SciPy 2019 \| Daniel Wheeler](https://www.youtube.com/embed/USDbjmxEZ_I?start=179&end=197&version=3) |
@@ -508,6 +509,12 @@ Examples:
 - About The Prime have been working at Netflix [Why I Quit Netflix](https://www.youtube.com/embed/SSS24ViMC50?start=434&end=485&version=3)
 - About geohot curriculum [USENIX Enigma 2016 - Timeless Debugging](https://www.youtube.com/embed/eGl6kpSajag?start=52&end=168&version=3)
 - About Ron [Open Source Friday Special: AI's Role Shaping Developer Tools](https://www.youtube.com/embed/GURdeT4zNNU?start=68&end=109&version=3)
+
+
+
+TODO: think where to place it
+| v3HPjBjEZS | [Julian Arni](https://www.linkedin.com/in/julian-kirsten-arni-675b08234/) / founder of garnix | 04:42 | [Nix, The Build Everything Language (with Julian Arni)](https://www.youtube.com/embed/maw2hptpErI?start=378&end=660&version=3) |
+
 
 
 
