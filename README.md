@@ -276,7 +276,7 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 | zBad4bY7iX | [Matthew Croughan](https://www.linkedin.com/in/matthew-croughan-77b9231b6/) / founder of [Nixified AI](https://nixified.ai/)                                                                                   | 00:23    | [What is Nix? (Matthew Croughan) #shorts #bitcoin #opensource #nix #reproducibility #raspiblitz](https://www.youtube.com/shorts/30iabCdJSQw)                    |
 | P0rtx36zTu | [Ron Efroni](https://www.linkedin.com/in/ronefroni/) / ex Facebook; NixOS Board Member and Co-Founder & CEO at [Flox](https://flox.dev/about/)                                                                                                               | 01:17 | [NixCon2024 Nix State of the Union 2024](https://www.youtube.com/embed/9qjksUVp8C0?start=120&end=197&version=3) |  
   </details>
-  <details><summary>Unique to Nix: (Click to expand!)</summary>
+  <details><summary>Unique to Nix and built with Nix: (Click to expand!)</summary>
 
 | id          | Author / Enterprise | Duration | Title |
 |-------------|---------------------|-------|-------|
@@ -293,6 +293,7 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 | Qheeo2NW5g | [Matthew Croughan](https://www.linkedin.com/in/matthew-croughan-77b9231b6/) / founder of [Nixified AI](https://nixified.ai/) | 01:06 | [Matthew Croughan - Nix The Planet - SCaLE 21x](https://www.youtube.com/embed/6iviTZfiLGU?start=801&end=867&version=3)                                           |
 | wUORKUuYgJ | [Matthew Croughan](https://www.linkedin.com/in/matthew-croughan-77b9231b6/) / founder of [Nixified AI](https://nixified.ai/)                                                                    | 00:50 | [Matthew Croughan - Nix The Planet - SCaLE 21x](https://www.youtube.com/embed/6iviTZfiLGU?start=870&end=920&version=3)                                            |
 | rsAvbpuyWY | [The Linux Cast](https://www.youtube.com/@TheLinuxCast) / | 01:04 | [Is NixOS Overrated?](https://www.youtube.com/embed/sSxGEHakfuc?start=1636&end=1700&version=3) |
+| JmRqTdqrjZ  | [Farid Zakaria](https://www.linkedin.com/in/fmzakari/) / ex Engineering Manager at Google, Staff Software Engineer at Looker; Principal Engineer at Confluent | 01:19 | [ #275 Giving NixOS Linux A Proper Try \| Shahar & Farid](https://www.youtube.com/embed/KVxk7LFdHtQ?start=1393&end=1472&version=3) |
 | ihXzPViJ2F | Alexander Groleau /                                                                                   | 00:32 | [Alexander Groleau – The journey to better documentation (2023 Nix Developer Dialogues)](https://www.youtube.com/embed/Ga10_18sSMc?start=1705&end=1737&version=3) |
   </details>
   <details><summary>Why Nix? (Click to expand!)</summary>
