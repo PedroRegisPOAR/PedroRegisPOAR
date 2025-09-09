@@ -247,6 +247,7 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 | Uy95OlTFGN | [Thomas Bereknyei](https://www.linkedin.com/in/thomas-bereknyei-4888432a5/) / Director at Flox  | 00:50    | [Docker and Nix (DockerCon 2023)](https://www.youtube.com/embed/l17oRkhgqHE?start=2423&end=2491&version=3) |
 | tj5XuLurZ9 | [Geoffrey Huntley](https://www.linkedin.com/in/geoffreyhuntley/) / creator of [AWS Cloud9](https://www.youtube.com/embed/tl9I-R83lKo?start=40&end=57) and GitPod; at [Canva](https://www.canva.com/) | 01:08    | [What if the industry didn’t use Docker? - Geoffrey Huntley, GitPod](https://www.youtube.com/embed/8kZpyCeh4Z8?start=2588&end=2665&version=3) |  
 | qvbSrVVTTF | [Andrea Griffiths](https://www.linkedin.com/in/alacolombiadev/) / Senior Developer Advocate at GitHub | 00:14 | [Open Source Friday Special: AI's Role Shaping Developer Tools](https://www.youtube.com/embed/GURdeT4zNNU?start=739&end=753&version=3) |
+| HSvQadJwI1 | [Aneesh Agrawal](https://github.com/aneeshusa) / at Anthropic | 00:50 | [Docker Was Too Slow, So We Replaced It: Nix in Production](https://www.youtube.com/embed/iPoL03tFBtU?start=652&end=702&version=3) |
   </details>
   <details><summary>People "all in" in Nix: (Click to expand!)</summary>
 
