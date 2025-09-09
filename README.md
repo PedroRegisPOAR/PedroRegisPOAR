@@ -440,6 +440,7 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 | ZTTyaUX1xO | [Armijn Hemel](https://www.linkedin.com/in/armijnhemel/) / created first prototype of NixOS | 00:36 | [The dark and murky past of NixOS (NixCon 2019)](https://www.youtube.com/embed/fsgYVi2PQr0?start=260&end=296&version=3) |
 | el7bQhLAFT | [Tyler Kelley](https://gitlab.com/Zaney) /  | 00:40 | [NixOS Isn't a Linux Distro](https://www.youtube.com/embed/exQtZWfyzc4?start=0&end=40&version=3) |
 | 3CYtrPDRDF | [Erik Osterman](https://www.linkedin.com/in/osterman/) / DevOps Accelerator; LLC (CEO) at Cloud Posse | 00:49 | [Is NixOS Worth The Hype?](https://www.youtube.com/embed/5ewolfQjoXc?start=0&end=49&version=3) |
+| x5Z9Hqe5Bd  | [Farid Zakaria](https://www.linkedin.com/in/fmzakari/) / ex Engineering Manager at Google, Staff Software Engineer at Looker; Principal Engineer at Confluent | 02:09 | [ #275 Giving NixOS Linux A Proper Try \| Shahar & Farid](https://www.youtube.com/embed/KVxk7LFdHtQ?start=1943&end=2072&version=3) |
   </details>
   <details><summary>Memes: (Click to expand!)</summary>
 
@@ -487,7 +488,7 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 <!--
 
 
-tr -cd '[:alnum:]' < /dev/urandom | fold -w30 | head -n1
+tr -cd '[:alnum:]' < /dev/urandom | fold -w10 | head -n3
 
 
 TODO: how to deal with multiple references for the same thing in markdow? Use footnotes?
@@ -531,10 +532,11 @@ TODO: transform this markdown tables in json and process it with python?
 
 
 def convert_seconds(seconds):
-    # Calculate minutes and remaining seconds
     minutes = seconds // 60
     remaining_seconds = seconds % 60
-    return '0' + str(minutes) + ':' + str(remaining_seconds)
+    return f'{minutes:02}:{remaining_seconds:02}'
+
+convert_seconds( 3996 - 3788 )
 
 
 Gerhard Lazu in MZq1Jo3v4I
