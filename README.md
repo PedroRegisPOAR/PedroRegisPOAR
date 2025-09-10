@@ -242,6 +242,7 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 | frkWir8jPa | [Andreas Herrmann](https://www.linkedin.com/in/andreas-herrmann-2081751ba/) / ex Scalable Builds Lead at Tweag; Scalable Builds Lead at Modus Create | 00:27    | [The best of both worlds with Nix + Bazel](https://www.youtube.com/embed/dBru1MVKsfE?start=405&end=450&version=3) |
 | tBbokWIPAN | [Jérôme Vieilledent](https://www.linkedin.com/in/jeromevieilledent/) / Product Manager Developer Experience at Platform.sh | 00:45    | [Container environment maintenance - Master container management](https://www.youtube.com/embed/LhVjKes2Wsc?start=1410&end=1487&version=3) |
 | FnlsVUonF3 | [Burke Libbey](https://github.com/burke) / https://github.com/Shopify | 01:17    | [Shipit! Presents: How Shopify Uses Nix](https://www.youtube.com/embed/KaIRpx11qrc?start=2370&end=2430&version=3) |
+| v3HPjBjEZS | [Julian Arni](https://www.linkedin.com/in/julian-kirsten-arni-675b08234/) / founder of garnix | 04:42 | [Nix, The Build Everything Language (with Julian Arni)](https://www.youtube.com/embed/maw2hptpErI?start=378&end=660&version=3) |
 | L5FvOk4ada | [Kelsey Hightower](https://www.linkedin.com/in/kelsey-hightower-849b342b1/) / Distinguished Engineer at Google | 04:07 | [Fireside Chat with Kelsey Hightower: An Outsider’s Look at Nix](https://www.youtube.com/embed/caxcawUCSZ8?start=290&end=537&version=3) |
 | Dzv66xgHSj | [Julian Arni](https://www.linkedin.com/in/julian-kirsten-arni-675b08234/) / founder of garnix | 02:41 | [Nix, The Build Everything Language (with Julian Arni)](https://www.youtube.com/embed/maw2hptpErI?start=1170&end=1331&version=3) |
 | l0tLPpIeBi | [Jim Clark](https://www.linkedin.com/in/james-clark-b78649/) / Lead Engineer at Docker  | 01:00    | [Docker and Nix (DockerCon 2023)](https://www.youtube.com/embed/l17oRkhgqHE?start=1534&end=1635&version=3) |
@@ -532,23 +533,17 @@ Examples:
 
 
 
-TODO: think where to place it
-| v3HPjBjEZS | [Julian Arni](https://www.linkedin.com/in/julian-kirsten-arni-675b08234/) / founder of garnix | 04:42 | [Nix, The Build Everything Language (with Julian Arni)](https://www.youtube.com/embed/maw2hptpErI?start=378&end=660&version=3) |
 
 
 
 
 Other quotes:
-|  | [Jon Y](https://www.linkedin.com/in/jon-y-asianometry/) / YouTuber, creator of Asianometry | 02:47 | [A Chronicle of the Unix Wars](https://www.youtube.com/embed/Ffh3DRFzRL0?start=179&end=346&version=3) |
+| JQTzRYAfRn | [Jon Y](https://www.linkedin.com/in/jon-y-asianometry/) / YouTuber, creator of Asianometry | 02:47 | [A Chronicle of the Unix Wars](https://www.youtube.com/embed/Ffh3DRFzRL0?start=179&end=346&version=3) |
 | C2f0nLNfAZ | [Linus Torvalds](https://www.linkedin.com/in/linustorvalds/) / creator of Linux Kernel | 07:36 | [The Origins of Linux—Linus Torvalds](https://www.youtube.com/embed/5PmHRSeA2c8?start=1801&end=1867&version=3) |
 | tZTyIbNjmS | [Linus Torvalds](https://www.linkedin.com/in/linustorvalds/) / creator of Linux Kernel | 02:37 | [The Origins of Linux—Linus Torvalds](https://www.youtube.com/embed/5PmHRSeA2c8?start=1801&end=1867&version=3) |
 
 
-
-
-
-TODO: 
-|  | [Lucas Montano](https://www.linkedin.com/in/lucasmontano/) / Senior Android Engineer at Disney | 00:00 | [A Crise de Identidade do Programador em 2025](https://www.youtube.com/embed/rZd-ATp3X7A?start=763&end=828&version=3) |
+| dOMbMQ2uw8 | [Lucas Montano](https://www.linkedin.com/in/lucasmontano/) / Senior Android Engineer at Disney | 00:00 | [A Crise de Identidade do Programador em 2025](https://www.youtube.com/embed/rZd-ATp3X7A?start=763&end=828&version=3) |
 
 
 https://www.youtube.com/embed/iPoL03tFBtU?start=1453&end=1489&version=3
