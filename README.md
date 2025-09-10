@@ -439,6 +439,7 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 | cSzDoUzhyV | [Ryan Mulligan](https://github.com/ryantm) / at [Replit](https://replit.com/) | 02:08                                                                                                                | [Replit Pro: All Things Nix](https://www.youtube.com/embed/q5paXmDbk7o?start=1026&end=1154&version=3) |
 | SyEBNgBmdf | [Vladimir Pouzanov](https://www.linkedin.com/in/farcaller/) / Staff SRE at Ideed | 00:45                                                                                                                | [NixCon2023 Nix and Kubernetes: Deployments Done Righ](https://www.youtube.com/embed/SEA1Qm8K4gY?start=1970&end=2015&version=3) |
 | 0BB6ps2OY1 | [Tyler Kelley](https://gitlab.com/Zaney) /  | 03:15                                                                                                                | [I Have Fallen In 💕 Love With ❄️ NixOS \| A Basic Introduction To NixOS](https://www.youtube.com/embed/uS8Bx8nQots?start=860&end=1055&version=3) |
+| SJz9b2Ko7e | [Shahar](https://github.com/mightyiam) / Creator of [https://fulltimenix.com/](https://fulltimenix.com/) | 00:33 | [#275 Giving NixOS Linux A Proper Try \| Shahar & Farid](https://www.youtube.com/embed/KVxk7LFdHtQ?start=4334&end=4367&version=3) |
   </details>
   <details><summary>Worse Is Better + eXtreme Go Horse (XGH) + Keep It Simple, Stupid (KISS) and Nix (Click to expand!)</summary>
 
