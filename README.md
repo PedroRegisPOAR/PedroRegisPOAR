@@ -212,10 +212,12 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 | 8orL9CMMrM | [Jefferson Carneiro](https://www.youtube.com/@SlackJeff) / criador do canal Slackjeff | 01:13 | [Por Que Estou Desistindo do Slackware](https://www.youtube.com/embed/mLpc7Ow2m_Y?start=264&end=337&version=3) |
 | YNzy20aoAY | [Rafael (Gomex) Gomes](https://www.linkedin.com/in/gomex/) / Senior Platform Engineer at DNSFilter | 01:22 | [Ainda precisamos falar sobre teste de infraestrutura - Rafael Gomes (Gomex)](https://www.youtube.com/embed/ZVHlKWLEyhE?start=676&end=758&version=3) |
 | 17i2b2C7R0 | [Mente Binária](https://www.youtube.com/@mentebinaria) / [Mente Binária (ONG)](https://www.linkedin.com/company/mentebinaria/) | 05:00 | [strace 6.3 permite limitar syscalls e especificar argv0](https://www.youtube.com/embed/_cwJq7HUhIo?start=202&end=502&version=3) |
+| tZTyIbNjmS | [Eduarda Vieira](https://www.linkedin.com/in/eduardavieiranetto/) / Software Engineer at Avalara | 00:13 | [Por que eu uso o Linux para programar?](https://www.youtube.com/embed/1akRfD5ndBk?start=211&end=224&version=3) |
 | BFhLwJM5MF | [Fabricio Veronez](https://www.linkedin.com/in/fabricioveronez/) / 15 anos de experiência; Proprietário at Formação DevOps Pro | 00:04 | [Dev, pare de correr dos containers !](https://www.youtube.com/embed/nRdk9TdhUJo?start=33&end=37&version=3) |
 | W7UxvPoz94 | [Wesley Willians](https://www.linkedin.com/in/wesleywillians/) / Founder of Full Cycle | 00:13 | [AD Docker 02](https://www.youtube.com/embed/vMNyPZ7BcN8?start=7&end=20&version=3) |
 | 17i2b2C7R0 | [Hugo Posca](https://www.linkedin.com/in/hugoposca/) / Cloud Engineer at SuperOrbital | 01:25 | [Docker: Nivelando conhecimento \| #devadev com Hugo Posca](https://www.youtube.com/embed/hCMcQfGb4cA?start=40&end=125&version=3) |
 | 9fSpa69OVL | [Carlos Bezerra](https://www.linkedin.com/in/carlosdbezerra/) / Senior DevOps Engineer | 01:39 | [1° Meetup Online - Carreira e Desafios na Área DevOps - Feat. Carlos Bezerra](https://www.youtube.com/embed/NlT6jFG7mpU?start=3299&end=3398&version=3) |
+| ixlsUlM7r1 | [Lucas Montano](https://www.linkedin.com/in/lucasmontano/) / Senior Android Engineer at Disney | 01:05 | [A Crise de Identidade do Programador em 2025](https://www.youtube.com/embed/rZd-ATp3X7A?start=763&end=828&version=3) |
 | | | |
 | 8zBrmVIcMl | [Prof.Juliano Ramos](https://www.linkedin.com/in/profjulianoramos/) / Professor LPI | 00:27 | [Nix é o linux do futuro?](https://www.youtube.com/embed/xNOAWOEOXL0?start=124&end=151&version=3) |
 | qIZE5d0edz | [Dionatan Simioni](https://www.linkedin.com/in/dionatansimioni/) / creator of [Diolinux](https://www.linkedin.com/company/diolinux/) | 04:19 | [Estou impressionado (de verdade) com esse Linux!](https://www.youtube.com/embed/BODYe-Jy2AQ?start=415&end=674&version=3) |
@@ -532,40 +534,13 @@ Examples:
 - About Ron [Open Source Friday Special: AI's Role Shaping Developer Tools](https://www.youtube.com/embed/GURdeT4zNNU?start=68&end=109&version=3)
 
 
-
-
-
-
-
 Other quotes:
 | JQTzRYAfRn | [Jon Y](https://www.linkedin.com/in/jon-y-asianometry/) / YouTuber, creator of Asianometry | 02:47 | [A Chronicle of the Unix Wars](https://www.youtube.com/embed/Ffh3DRFzRL0?start=179&end=346&version=3) |
 | C2f0nLNfAZ | [Linus Torvalds](https://www.linkedin.com/in/linustorvalds/) / creator of Linux Kernel | 07:36 | [The Origins of Linux—Linus Torvalds](https://www.youtube.com/embed/5PmHRSeA2c8?start=1801&end=1867&version=3) |
 | tZTyIbNjmS | [Linus Torvalds](https://www.linkedin.com/in/linustorvalds/) / creator of Linux Kernel | 02:37 | [The Origins of Linux—Linus Torvalds](https://www.youtube.com/embed/5PmHRSeA2c8?start=1801&end=1867&version=3) |
 
 
-| dOMbMQ2uw8 | [Lucas Montano](https://www.linkedin.com/in/lucasmontano/) / Senior Android Engineer at Disney | 00:00 | [A Crise de Identidade do Programador em 2025](https://www.youtube.com/embed/rZd-ATp3X7A?start=763&end=828&version=3) |
-
-
-https://www.youtube.com/embed/iPoL03tFBtU?start=1453&end=1489&version=3
-https://www.youtube.com/embed/iPoL03tFBtU?start=1456&end=1489&version=3
-
-
-
-https://www.youtube.com/embed/C7hVontyK9Y?start=427&end=450&version=3
-
-
-
-
-[VegaData](https://www.youtube.com/@VegaData) / [VegaData](https://www.youtube.com/@VegaData) 
-
-
-
-
-
 TODO: transform this markdown tables in json and process it with python?
-
-
-
 
 
 Gerhard Lazu in MZq1Jo3v4I
@@ -574,14 +549,6 @@ Gerhard Lazu in MZq1Jo3v4I
 It changed to be closed:
 | A0I9xlrdyn | [Martin Wimpress](https://www.linkedin.com/in/martinwimpress/) / creator of Ubuntu MATE; Head of Product Strategy at [Determinate Systems](https://determinate.systems/people/martin-wimpress/) | 01:35 | [NixCon 2023: Blending NixOS with Flathub for friends and family - Nix & NixOS](https://www.youtube.com/embed/ITGo2DzgDlg?start=132&end=227&version=3)               |
 | BVU9Yo1GFr | [Martin Wimpress](https://www.linkedin.com/in/martinwimpress/) / creator of Ubuntu MATE; Head of Product Strategy at [Determinate Systems](https://determinate.systems/people/martin-wimpress/) | 00:24 | [NixCon 2023: Blending NixOS with Flathub for friends and family - Nix & NixOS](https://www.youtube.com/embed/ITGo2DzgDlg?start=318&end=342&version=3)               |
-
-
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/tXlpbXfu7e2Pu/giphy.gif" width="350">
-</p>
-
-
 
 
 References:
@@ -643,9 +610,6 @@ https://simpleicons.org/?q=amazonrds
 https://simpleicons.org/?q=amazonsqs
 
 
-#FAD83B
-
-
 
 https://img.shields.io/badge/beekeeperstudio-FAD83B
 ?style=for-the-badge&logo=beekeeperstudio&logoColor=white
@@ -687,7 +651,6 @@ https://simpleicons.org/?q=LLVM [LLVM in 100 Seconds](https://www.youtube.com/wa
 
 [![vscodium](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=VSCodium&logoColor=white)](https://vscodium.com/)
 [![qgis](https://img.shields.io/badge/qgis-589632?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org/)
-
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
@@ -741,8 +704,6 @@ homebrew
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 
 
-
-
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
 [![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)](https://www.elastic.co)
 [![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
@@ -764,21 +725,12 @@ homebrew
 
 <!--
 
-
-[Eduarda Vieira](https://www.linkedin.com/in/eduardavieiranetto/)
-[Por que eu uso o Linux para programar?](https://www.youtube.com/embed/1akRfD5ndBk?start=211&end=224&version=3)
-
-
 The WND problem is at least an NP-Hard problem:
 https://doi.org/10.1080/03052158408960635
 https://www.tandfonline.com/doi/abs/10.1080/03052158408960635
 
 
-
-
 node -e 'console.log(parseInt(0.0000005))'
-
-
 
 https://xkcd.com/1172/
 
