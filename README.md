@@ -49,10 +49,13 @@ Paths](https://dl.acm.org/doi/pdf/10.1145/3717823.3718179)
 
 ### Languages
 
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](https://nixos.org/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
+| | |
+|---|---|
+| [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/) | |
+| [![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)](https://nixos.org/) | |
+|[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) | |
+|[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script) | |
+
 
 #### Python libraries
 
@@ -200,6 +203,7 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 | QQCiq4htxL  | Google for Developers                                                                                                                                                                                 | 01:37 | [A Year of Project IDX](https://www.youtube.com/embed/AmvxhvRbCG8?start=0&end=97&version=3)                                                                            |
 | Kj5xLfsM1P  | [Geoffrey Huntley](https://www.linkedin.com/in/geoffreyhuntley/) / creator of AWS Cloud9 (?) and GitPod; at [Canva](https://www.canva.com/)                                                           | 00:17 | [Introduction to NixOS - Brownbag by Geoffrey Huntley](https://www.youtube.com/embed/tl9I-R83lKo?start=40&end=57)                                                      |
 | xq9EqpTnOh  | [Geoffrey Huntley](https://www.linkedin.com/in/geoffreyhuntley/) / creator of AWS Cloud9 (?) and GitPod; at [Canva](https://www.canva.com/)                                                           | 00:33 | [What if the industry didn’t use Docker? - Geoffrey Huntley, GitPod](https://www.youtube.com/embed/8kZpyCeh4Z8?start=2670&end=2703&version=3)                          |
+| dn4nk2cvkr | [Shahar](https://github.com/mightyiam) / Creator of [https://fulltimenix.com/](https://fulltimenix.com/) | 03:42 | [#275 Giving NixOS Linux A Proper Try \| Shahar & Farid](https://www.youtube.com/embed/KVxk7LFdHtQ?start=2180&end=2402&version=3) |
 
   </details>
   <details><summary>Alguns relatos de problemas e o que é Nix? (Click to expand!)</summary>
@@ -277,6 +281,7 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 | 1mzRuOjcYd | Derek Taylor / creator of [DistroTube](https://www.youtube.com/@DistroTube)                                                                                                                                    | 01:14    | [NixOS Is The Power User Distro (Now With An Easy Installer!)](https://www.youtube.com/embed/ck4J2Faa7Fc?start=0&end=74&version=3)                              |
 | yLgoUeTQ3c | [Chris Titus](https://www.linkedin.com/in/ctitus/) / creator of [Chris Titus Tech](https://www.youtube.com/@ChrisTitusTech)                                                                                    | 00:05    | [I was WRONG! This is the BEST Package Manager.](https://www.youtube.com/embed/Ty8C2B910EI?start=615&end=620&version=3)                                         |
 | yAJCUZQXVZ | [Jonas Chevalie](https://www.linkedin.com/in/jonas-chevalier/) / ex DevOps Engineer at Tweag; Director of Numtide                                                                                              | 01:05    | [Packaging microservices with nix - Jonas Chevalier](https://www.youtube.com/embed/wZ1PECH_cfM?start=33&end=41&version=3)                                       |
+| eDcKJDBLEE | [Samir Rashid](https://www.linkedin.com/in/samirrashid/) / Research Software Engineer at Tock OS | 00:13 | [The case for Nix on the home server](https://www.youtube.com/embed/h8oyoDMUM2I?start=104&end=117&version=3) |
 | 8PoGit4U2y | [Rok Garbas](https://www.linkedin.com/in/garbas/) / ex Senior Software Engineer at Tweag; Software Engineer at Flox                                                                                            | 00:50    | [Rok Garbas – The NixOS hype and where to go from here (2023 Nix Developer Dialogues)](https://www.youtube.com/embed/C2mqmVlhihU?start=1701&end=1751&version=3) |
 | pghomObJ7c | [Viktor Farcic](https://www.linkedin.com/in/viktorfarcic/) / Developer Advocate                                                                                                                                | 00:26    | [Say Goodbye to Containers - Ephemeral Environments with Nix Shell](https://www.youtube.com/embed/0ulldVwZiKA?start=888&end=914&version=3)                      |
 | pCFOmxe3xc | [OpenTechLab](https://www.youtube.com/@OpenTechLab) / | 00:46 | [Getting Started with Nix](https://www.youtube.com/embed/xXlCcdPz6Vc?start=72&end=118&version=3) |
@@ -312,6 +317,7 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 | wUORKUuYgJ | [Matthew Croughan](https://www.linkedin.com/in/matthew-croughan-77b9231b6/) / founder of [Nixified AI](https://nixified.ai/)                                                                    | 00:50 | [Matthew Croughan - Nix The Planet - SCaLE 21x](https://www.youtube.com/embed/6iviTZfiLGU?start=870&end=920&version=3)                                            |
 | rsAvbpuyWY | [The Linux Cast](https://www.youtube.com/@TheLinuxCast) / | 01:04 | [Is NixOS Overrated?](https://www.youtube.com/embed/sSxGEHakfuc?start=1636&end=1700&version=3) |
 | JmRqTdqrjZ  | [Farid Zakaria](https://www.linkedin.com/in/fmzakari/) / ex Engineering Manager at Google, Staff Software Engineer at Looker; Principal Engineer at Confluent | 01:18 | [ #275 Giving NixOS Linux A Proper Try \| Shahar & Farid](https://www.youtube.com/embed/KVxk7LFdHtQ?start=1394&end=1472&version=3) |
+| fyB28shR0e | [Robert Hensing](https://www.linkedin.com/in/rhensing/) / Co-Founder at Hercules CI | 00:49 | [Robert Hensing – Fixed points all the way down: the module system (2023 Nix Developer Dialogues)](https://www.youtube.com/embed/P00SAwmhG3c?start=696&end=745&version=3) |
 | ihXzPViJ2F | Alexander Groleau /                                                                                   | 00:32 | [Alexander Groleau – The journey to better documentation (2023 Nix Developer Dialogues)](https://www.youtube.com/embed/Ga10_18sSMc?start=1705&end=1737&version=3) |
   </details>
   <details><summary>Why Nix? (Click to expand!)</summary>
@@ -405,6 +411,7 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 | d0PVpsHJX3 | [Alex Xu](https://www.linkedin.com/in/alexxubyte/) / ex Software Engineer at Twitter; Author & Co-Founder of ByteByteGo                                    | 00:41 | [Linux File System Explained!](https://www.youtube.com/embed/bbmWOjuFmgA?start=0&end=41&version=3)                                                                 |
 | J8Un0BYgBx | [Daniel Duan ](https://github.com/dduan) / | 00:24 | [What is dynamic linking?](https://www.youtube.com/embed/zJ8Dp3nYmpM?start=398&end=422&version=3)                                                                  |
 | 6a5e9kIDoJ | [Rob Landley](https://www.linkedin.com/in/rob-landley-2b7a09/) / ex Busybox mantainer, creator of Toybox                                                   | 01:42 | [Tutorial: Building the Simplest Possible Linux System - Rob Landley, se-instruments.com](https://www.youtube.com/embed/Sk9TatW9ino?start=4921&end=5023&version=3) |
+| LhUPa67dcf | [Ross Turk](https://www.linkedin.com/in/rossturk/) / ex SourceForge, Red Hat, npm, Talend, Inktank; at [Flox](https://flox.dev/about/) | 02:12 | [Flox ACTIVATE event in NYC - 2025-07-17](https://www.youtube.com/embed/tMfXydTit3w?start=63&end=195&version=3) |
 | 6CrncRWsSB | [Charles Strahan](https://www.linkedin.com/in/charlesstrahan/) / ex Principal Software Engineer; Staff Software Engineer at FullStory                                                                                    | 00:28 | [NYLUG Presents: Charles Strahan -on- Introduction to NixOS](https://www.youtube.com/embed/VivXSoovUFI?start=580&end=608&version=3)                                      |
 | 5o7VosV61F | [Matthew Croughan](https://www.linkedin.com/in/matthew-croughan-77b9231b6/) / founder of [Nixified AI](https://nixified.ai/)                               | 00:11 | [Matthew Croughan - Nix The Planet - SCaLE 21x](https://www.youtube.com/embed/6iviTZfiLGU?start=1395&end=1406&version=3)                                           |
 | gwgy5agEs9 | Matthew Weber / creator of The Linux Cast | 00:55 | [Is NixOS Actually Incredible!?!](https://www.youtube.com/embed/aMT7EIiC46k?start=85&end=140&version=3) |
@@ -437,6 +444,7 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 | bl5sZj1TBy | [Graham Christensen](https://www.linkedin.com/in/graham-christensen-379516209/) / ex Tumblr; Nix Advocate and founded [Determinate Systems](https://determinate.systems/people/graham-christensen/) | 00:33 | [Introducing Determinate](https://www.youtube.com/embed/0yb05mq9lLM?start=135&end=168&version=3) |
 | XpYaUOFXdd | [Xe Iaso](https://www.linkedin.com/in/xe-iaso/) / ex Senior Software Engineer at Heroku; ex Senior Technophilosopher at Fly.io; Senior Cloud Whisperer at Tigris Data | 00:14                                                                                                                | [Writing your own NixOS modules for fun and (hopefully) profit](https://www.youtube.com/embed/SzyuLVzS5Fg?start=196&end=210&version=3) |
 | qeIwmYEeW6 | nixhero / | 01:04                                                                                                                | [Can we install NixOS on any VPS?](https://www.youtube.com/embed/26jqQoS6SdQ?start=187&end=251&version=3) |
+| k0SLTWRfDy | [Zach Anderson](https://www.linkedin.com/in/zabot/) / Platform Engineer at Replit | 00:33 | [Taking the Nix Pill](https://www.youtube.com/embed/QwLWIy2KleE?start=130&end=163&version=3) |
 | 97wvVQMvqu | [Ryan Mulligan](https://github.com/ryantm) / at [Replit](https://replit.com/) | 00:29                                                                                                                | [NixCon2023 Declaring an IDE with evalModules](https://www.youtube.com/embed/WsU7sQvIh0U?start=84&end=113&version=3) |
 | 7ystjNWSit | [Ryan Mulligan](https://github.com/ryantm) / at [Replit](https://replit.com/) | 00:36                                                                                                                | [NixCon2023 Declaring an IDE with evalModules](https://www.youtube.com/embed/WsU7sQvIh0U?start=234&end=270&version=3) |
 | cSzDoUzhyV | [Ryan Mulligan](https://github.com/ryantm) / at [Replit](https://replit.com/) | 02:08                                                                                                                | [Replit Pro: All Things Nix](https://www.youtube.com/embed/q5paXmDbk7o?start=1026&end=1154&version=3) |
@@ -460,6 +468,7 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 | IqXRI4SBkt | [Kelsey Hightower](https://www.linkedin.com/in/kelsey-hightower-849b342b1/) / Distinguished Engineer at Google | 00:37 | [Kubernetes for Sysadmins – Kelsey Hightower at PuppetConf 2016](https://www.youtube.com/embed/HlAXp0-M6SY?start=371&end=408&version=3) |
 | f1RzlA9mqp | [Kelsey Hightower](https://www.linkedin.com/in/kelsey-hightower-849b342b1/) / Distinguished Engineer at Google | 01:23 | [Fireside Chat with Kelsey Hightower: An Outsider’s Look at Nix](https://www.youtube.com/embed/caxcawUCSZ8?start=541&end=624&version=3) |
 | kE7bic6ZIz | [Geoffrey Huntley](https://www.linkedin.com/in/geoffreyhuntley/) / creator of [AWS Cloud9](https://www.youtube.com/embed/tl9I-R83lKo?start=40&end=57)? and GitPod; at [Canva](https://www.canva.com/)          | 01:17 | [What if the industry didn’t use Docker? - Geoffrey Huntley, GitPod](https://www.youtube.com/embed/8kZpyCeh4Z8?start=2588&end=2665&version=3)                   |
+| mOoWdJREB8 | MalwarePad / https://www.youtube.com/@MalwarePad | 00:35 | [NixOS: A peak at a MASSIVE rabbit hole!](https://www.youtube.com/embed/mA74I2IUfR0?start=259&end=294&version=3) |
 | y1cs5QQOnS | [Shahar](https://github.com/mightyiam) / Creator of [https://fulltimenix.com/](https://fulltimenix.com/) | 00:24 | [#275 Giving NixOS Linux A Proper Try \| Shahar & Farid](https://www.youtube.com/embed/KVxk7LFdHtQ?start=5020&end=5044&version=3) |
 | syycdWFID9 | [Rok Garbas](https://www.linkedin.com/in/garbas/) / ex Senior Software Engineer at Tweag; Software Engineer at Flox                                                                                            | 00:11 | [Rok Garbas – The NixOS hype and where to go from here (2023 Nix Developer Dialogues)](https://www.youtube.com/embed/C2mqmVlhihU?start=1801&end=1812&version=3) |
 | Rfm94GK6oX | [Ron Efroni](https://www.linkedin.com/in/ronefroni/) / ex Facebook; NixOS Board Member and Co-Founder & CEO at [Flox](https://flox.dev/about/) | 00:53 | [Open Source Friday Special: AI's Role Shaping Developer Tools](https://www.youtube.com/embed/GURdeT4zNNU?start=1001&end=1054&version=3) |
@@ -487,6 +496,7 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 | 7ikgW4ydO7 | [bigboxSWE](https://www.youtube.com/@bigboxSWE) / | 00:28 | [What Your Linux Distro Says About You](https://www.youtube.com/embed/korOpibkm6g?start=99&end=127&version=3) |
 | 3bQqhxTXtg | [TechnoSever](https://www.youtube.com/@technosevergen%C3%A7) / | 00:03 | [Ranking Linux Distros (In my Opinion)](https://www.youtube.com/embed/oxLhsFos2RU?start=25&end=28&version=3) |
 | yU8zQ8FiYH | [Armijn Hemel](https://www.linkedin.com/in/armijnhemel/) / created first prototype of NixOS | 00:21 | [The dark and murky past of NixOS (NixCon 2019)](https://www.youtube.com/embed/fsgYVi2PQr0?start=507&end=528&version=3) |
+| fYpKfmYpDD | Virbox / https://www.youtube.com/@Virbox | 03:35  | [The "Joy" of NixOS](https://www.youtube.com/embed/hNvCIn7XANc?start=0&end=225&version=3)
   </details>
 </details>
 
@@ -525,6 +535,11 @@ def convert_seconds(seconds):
     return f'{minutes:02}:{remaining_seconds:02}'
 
 convert_seconds()
+
+
+
+| L6xaCLrCyt | Greg / https://www.youtube.com/@psygreg | 01:09 | [O maior problema do Linux (e como resolvê-lo)](https://www.youtube.com/embed/kVzMg7_w3hs?start=323&end=392&version=3) |
+| L6xaCLrCyt | Greg / https://www.youtube.com/@psygreg | 00:28 | [Escolha seu Linux! | Tierlist de sistemas 2025🐧](https://www.youtube.com/embed/hlh_drz3me0?start=323&end=392&version=3) |
 
 
 TODO: how to deal with multiple references for the same thing in markdow? Use footnotes?
