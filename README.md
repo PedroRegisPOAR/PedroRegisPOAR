@@ -523,6 +523,8 @@ My contributions to [nixpkgs](https://github.com/NixOS/nixpkgs):
 
 > "All software is open source if you are good enough in reverse engineering." ― [Ed (Low Level)](https://www.youtube.com/watch?v=gh2RXE9BIN8), [Brodie Robertson](https://www.youtube.com/watch?v=6XTQPsnSu5E).
 
+> If I have ever made any valuable discoveries, it has been owing more to patient attention, than to any other talent. — [Sir Isaac Newton](https://hsm.stackexchange.com/a/15889).
+
 > "It's not that I'm so smart, it's just that I stay with problems longer." ― Albert Einstein.
 
 > "We are trying to prove ourselves wrong as quickly as possible, because only in that way can we find progress." ― Richard P. Feynman.
